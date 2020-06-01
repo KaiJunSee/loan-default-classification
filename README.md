@@ -3810,9 +3810,3 @@ joblib.dump(model_best, 'model_best.pkl', compress=9)
 #model_clone = joblib.load('model_best.pkl')
 ```
 
-
-
-
-    ['model_best.pkl']
-
-
