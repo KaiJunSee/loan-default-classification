@@ -3733,10 +3733,6 @@ plt.show()
 ```
 
 
-    <Figure size 432x288 with 0 Axes>
-
-
-
 ![png](README_files/README_50_1.png)
 
 
@@ -3797,10 +3793,6 @@ plt.show()
 
 
 ![png](README_files/README_51_6.png)
-
-
-
-    <Figure size 432x288 with 0 Axes>
 
 
 
